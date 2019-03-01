@@ -26,3 +26,9 @@
 #### 滥用限制
 * 服务器举报由监督组全体共同负责，不允许由单一监督组成员记录和处理。
 * 监督组成员在代表监督组工作时应提供相关证明。
+
+
+-----
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
