@@ -27,7 +27,7 @@
 ### 如何进一步地参与到公益宣言中来？
 * 公益宣言设有公益宣言监督组、公益宣言服务器认证组织(NPSCO)两个机构。如果你已经加入了公约并有兴趣参与，就可以申请加入。
 * 公益宣言监督组是专门为了监督服务器对于公约的履行而成立的机构，详见「[关于成立公益宣言监督组的说明](https://github.com/Nonprofit-Minecraft/Documents/blob/master/README.md)」。
-* 公益宣言服务器认证组织(NPSCO)是为了对公益服务器进行认证而成立的机构，详见「[关于成立公益宣言服务器认证组织的说明](https://github.com/Nonprofit-Minecraft/Documents/blob/master/Instruction_.md)」。
+* 公益宣言服务器认证组织是为了对公益服务器进行认证而成立的机构，详见「[关于成立公益宣言服务器认证组织的说明](https://github.com/Nonprofit-Minecraft/Documents/blob/master/Instruction_.md)」。
 
 
 -----
